@@ -1,0 +1,49 @@
+{
+  "transactions": [
+    {
+      "date": "2021-09-30T03:00:00.000Z",
+      "week_day": "Quinta",
+      "description": "Cinema",
+      "value": "50.50",
+      "category": "Lazer",
+      "type": "debit",
+      "id": 5
+    },
+    {
+      "date": "2021-10-05T03:00:00.000Z",
+      "week_day": "Terça",
+      "description": "Salário",
+      "value": "2048",
+      "category": "Salário",
+      "type": "credit",
+      "id": 6
+    },
+    {
+      "date": "2021-09-25T03:00:00.000Z",
+      "week_day": "Sábado",
+      "description": "Mercado",
+      "value": "700",
+      "category": "Compras",
+      "type": "debit",
+      "id": 8
+    },
+    {
+      "date": "2021-10-11T03:00:00.000Z",
+      "week_day": "Segunda",
+      "description": "Venda de brigadeiro",
+      "value": "150",
+      "category": "Pix",
+      "type": "credit",
+      "id": 9
+    },
+    {
+      "date": "2021-10-12T03:00:00.000Z",
+      "week_day": "Terça",
+      "description": "Criação de site",
+      "value": "250",
+      "category": "Freela",
+      "type": "credit",
+      "id": 11
+    }
+  ]
+}
